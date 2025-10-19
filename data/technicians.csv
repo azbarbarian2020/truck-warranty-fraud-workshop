@@ -1,0 +1,561 @@
+"TECHNICIAN_ID","TECHNICIAN_NAME","SPECIALIZATION","CERTIFICATION_LEVEL","YEARS_EXPERIENCE"
+"TECH_0001","Philip Patterson","General Maintenance","State Inspector Licensed",12
+"TECH_0002","Patrick Rivera","Diesel Emissions (DEF/DPF)","ASE Master Technician",6
+"TECH_0003","Russell Powell","Heavy-Duty Diagnostics","ASE L3 Brakes",12
+"TECH_0004","Louis Long","Diesel Emissions (DEF/DPF)","EPA Section 609 Certified",12
+"TECH_0005","Johnny Flores","Engine Performance","ASE Diesel Certified",12
+"TECH_0006","Louis Long","Brake Systems Specialist","EPA Section 609 Certified",12
+"TECH_0007","Bobby Hughes","Electrical Systems","ASE Master Technician",12
+"TECH_0008","Justin Torres","Electrical Systems","Manufacturer Certified",5
+"TECH_0009","Timothy Jackson","Electrical Systems","EPA Section 609 Certified",4
+"TECH_0010","Gabriel Hayes","Turbocharger Specialist","ASE L3 Brakes",10
+"TECH_0011","Steven Moore","General Maintenance","ASE L3 Brakes",4
+"TECH_0012","Dennis Mitchell","Electronics & Computer Systems","ASE Advanced Level",6
+"TECH_0013","Ryan Allen","General Maintenance","State Inspector Licensed",5
+"TECH_0014","Bruce Russell","Fleet Maintenance","Manufacturer Certified",8
+"TECH_0015","Charles Davis","Drivetrain Specialist","ASE L3 Brakes",3
+"TECH_0016","Peter Murphy","Preventive Maintenance","ASE Diesel Certified",7
+"TECH_0017","Gerald Howard","Transmission Specialist","ASE Diesel Certified",7
+"TECH_0018","Arthur Price","Electronics & Computer Systems","ASE L2 Electronic Systems",8
+"TECH_0019","Richard Garcia","General Maintenance","ASE L1 Advanced",3
+"TECH_0020","Steven Moore","Turbocharger Specialist","ASE L3 Brakes",4
+"TECH_0021","Timothy Jackson","Fleet Maintenance","EPA Section 609 Certified",4
+"TECH_0022","Jerry Carter","Preventive Maintenance","ASE T-Series Certified",6
+"TECH_0023","Justin Torres","Electrical Systems","Manufacturer Certified",5
+"TECH_0024","Mark Lee","Diesel Engine Diagnostics","ASE Master Technician",4
+"TECH_0025","Peter Murphy","Heavy-Duty Diagnostics","ASE Diesel Certified",7
+"TECH_0026","Timothy Jackson","Fuel Systems","EPA Section 609 Certified",4
+"TECH_0027","William Jones","Brake Systems Specialist","Manufacturer Certified",2
+"TECH_0028","Alan Foster","Drivetrain Specialist","State Inspector Licensed",10
+"TECH_0029","Louis Long","Brake Systems Specialist","EPA Section 609 Certified",12
+"TECH_0030","Roy Alexander","Electrical Systems","ASE Advanced Level",10
+"TECH_0031","Johnny Flores","Preventive Maintenance","ASE Diesel Certified",12
+"TECH_0032","Jerry Carter","Preventive Maintenance","ASE T-Series Certified",6
+"TECH_0033","Timothy Jackson","Fleet Maintenance","EPA Section 609 Certified",4
+"TECH_0034","Bruce Russell","Electrical Systems","Manufacturer Certified",8
+"TECH_0035","Ralph Bryant","Engine Performance","ASE T-Series Certified",10
+"TECH_0036","Michael Johnson","Turbocharger Specialist","ASE Diesel Certified",2
+"TECH_0037","Todd Sanders","Fleet Maintenance","Manufacturer Certified",12
+"TECH_0038","Keith Ross","Electronics & Computer Systems","EPA Section 609 Certified",20
+"TECH_0039","Jeffrey Hall","Emissions Systems","EPA Section 609 Certified",5
+"TECH_0040","Vincent Perry","Electrical Systems","ASE L2 Electronic Systems",10
+"TECH_0041","Jerry Carter","Engine Performance","ASE T-Series Certified",6
+"TECH_0042","Douglas Stewart","Hydraulic Systems","State Inspector Licensed",6
+"TECH_0043","Juan Simmons","Diesel Engine Diagnostics","ASE Master Technician",10
+"TECH_0044","Douglas Stewart","Hydraulic Systems","State Inspector Licensed",6
+"TECH_0045","Walter Rogers","General Maintenance","ASE T-Series Certified",7
+"TECH_0046","Arthur Price","Electronics & Computer Systems","ASE L2 Electronic Systems",8
+"TECH_0047","Bobby Hughes","Electrical Systems","ASE Master Technician",12
+"TECH_0048","Terry Wood","Engine Performance","ASE T-Series Certified",7
+"TECH_0049","Randy Coleman","Brake Systems Specialist","Manufacturer Certified",10
+"TECH_0050","Christian Cox","Fuel Systems","EPA Section 609 Certified",7
+"TECH_0051","Kevin Thomas","Drivetrain Specialist","ASE L1 Advanced",4
+"TECH_0052","Andrew Lopez","Drivetrain Specialist","ASE Diesel Certified",3
+"TECH_0053","Jesse Gray","Brake Systems Specialist","EPA Section 609 Certified",8
+"TECH_0054","Gabriel Hayes","General Maintenance","ASE L3 Brakes",10
+"TECH_0055","Jacob Young","Fuel Systems","ASE Master Technician",5
+"TECH_0056","Daniel Rodriguez","Diesel Emissions (DEF/DPF)","EPA Section 609 Certified",3
+"TECH_0057","Jonathan Wright","Brake Systems Specialist","ASE Advanced Level",5
+"TECH_0058","Gregory Adams","Turbocharger Specialist","ASE L3 Brakes",6
+"TECH_0059","George Harris","Engine Performance","ASE T-Series Certified",5
+"TECH_0060","Logan Butler","Fleet Maintenance","EPA Section 609 Certified",10
+"TECH_0061","Louis Long","Brake Systems Specialist","EPA Section 609 Certified",12
+"TECH_0062","Jeremy Bailey","Drivetrain Specialist","ASE L1 Advanced",7
+"TECH_0063","Brandon Wilson","Turbocharger Specialist","ASE T-Series Certified",4
+"TECH_0064","Frank Hill","Drivetrain Specialist","ASE L1 Advanced",6
+"TECH_0065","Juan Simmons","Emissions Systems","ASE Master Technician",10
+"TECH_0066","Adam Turner","Heavy-Duty Diagnostics","ASE L3 Brakes",6
+"TECH_0067","Bradley Washington","Diesel Engine Diagnostics","ASE Advanced Level",12
+"TECH_0068","Nicholas King","Engine Performance","ASE Diesel Certified",5
+"TECH_0069","Russell Powell","Drivetrain Specialist","ASE L3 Brakes",12
+"TECH_0070","Kenneth Clark","Diesel Emissions (DEF/DPF)","Manufacturer Certified",5
+"TECH_0071","Brian Taylor","Brake Systems Specialist","ASE L2 Electronic Systems",4
+"TECH_0072","Marcus Butler","Hydraulic Systems","ASE T-Series Certified",12
+"TECH_0073","Gregory Adams","Hydraulic Systems","ASE L3 Brakes",6
+"TECH_0074","Jonathan Wright","Diesel Emissions (DEF/DPF)","ASE Advanced Level",5
+"TECH_0075","Eugene Jenkins","General Maintenance","ASE L1 Advanced",10
+"TECH_0076","Sean Kelly","Diesel Emissions (DEF/DPF)","Manufacturer Certified",7
+"TECH_0077","Nathan Collins","Diesel Engine Diagnostics","EPA Section 609 Certified",6
+"TECH_0078","Jacob Young","Fuel Systems","ASE Master Technician",5
+"TECH_0079","Dylan Hughes","General Maintenance","State Inspector Licensed",8
+"TECH_0080","James Smith","Emissions Systems","ASE Master Technician",2
+"TECH_0081","Terry Wood","Engine Performance","ASE T-Series Certified",7
+"TECH_0082","Joshua Gonzalez","Brake Systems Specialist","ASE Advanced Level",3
+"TECH_0083","Anthony Martin","Drivetrain Specialist","State Inspector Licensed",4
+"TECH_0084","Ralph Bryant","Preventive Maintenance","ASE T-Series Certified",10
+"TECH_0085","Wayne Patterson","General Maintenance","ASE Diesel Certified",10
+"TECH_0086","Harold Cooper","Brake Systems Specialist","ASE L2 Electronic Systems",7
+"TECH_0087","Johnny Flores","Preventive Maintenance","ASE Diesel Certified",12
+"TECH_0088","Sean Kelly","Diesel Emissions (DEF/DPF)","Manufacturer Certified",7
+"TECH_0089","George Harris","Engine Performance","ASE T-Series Certified",5
+"TECH_0090","Benjamin Baker","Heavy-Duty Diagnostics","State Inspector Licensed",6
+"TECH_0091","Gerald Howard","Transmission Specialist","ASE Diesel Certified",7
+"TECH_0092","Larry Scott","General Maintenance","ASE T-Series Certified",5
+"TECH_0093","Eric Robinson","Electronics & Computer Systems","ASE L2 Electronic Systems",5
+"TECH_0094","Richard Garcia","Transmission Specialist","ASE L1 Advanced",3
+"TECH_0095","Gerald Howard","Hydraulic Systems","ASE Diesel Certified",7
+"TECH_0096","Alexander Roberts","Diesel Engine Diagnostics","Manufacturer Certified",6
+"TECH_0097","Charles Davis","Heavy-Duty Diagnostics","ASE L3 Brakes",3
+"TECH_0098","Mark Lee","Diesel Engine Diagnostics","ASE Master Technician",4
+"TECH_0099","Harold Cooper","Emissions Systems","ASE L2 Electronic Systems",7
+"TECH_0100","Jesse Gray","Emissions Systems","EPA Section 609 Certified",8
+"TECH_0101","Frank Hill","Drivetrain Specialist","ASE L1 Advanced",6
+"TECH_0102","Raymond Green","Emissions Systems","ASE L2 Electronic Systems",6
+"TECH_0103","Vincent Perry","Fuel Systems","ASE L2 Electronic Systems",10
+"TECH_0104","Adam Turner","Heavy-Duty Diagnostics","ASE L3 Brakes",6
+"TECH_0105","Christopher Hernandez","Fleet Maintenance","ASE Master Technician",3
+"TECH_0106","Larry Scott","Transmission Specialist","ASE T-Series Certified",5
+"TECH_0107","Matthew Martinez","Hydraulic Systems","State Inspector Licensed",3
+"TECH_0108","Raymond Green","Diesel Engine Diagnostics","ASE L2 Electronic Systems",6
+"TECH_0109","Johnny Flores","Drivetrain Specialist","ASE Diesel Certified",12
+"TECH_0110","Jack Campbell","General Maintenance","ASE Diesel Certified",6
+"TECH_0111","Craig Gibson","Engine Performance","ASE L1 Advanced",15
+"TECH_0112","George Harris","Engine Performance","ASE T-Series Certified",5
+"TECH_0113","Brandon Wilson","General Maintenance","ASE T-Series Certified",4
+"TECH_0114","Jonathan Wright","Emissions Systems","ASE Advanced Level",5
+"TECH_0115","Noah Peterson","Diesel Emissions (DEF/DPF)","ASE Master Technician",7
+"TECH_0116","Jeremy Bailey","Drivetrain Specialist","ASE L1 Advanced",7
+"TECH_0117","Roy Alexander","Fleet Maintenance","ASE Advanced Level",10
+"TECH_0118","Jerry Carter","Engine Performance","ASE T-Series Certified",6
+"TECH_0119","Bryan Ross","Electronics & Computer Systems","ASE Master Technician",8
+"TECH_0120","Jerry Carter","Engine Performance","ASE T-Series Certified",6
+"TECH_0121","Ethan Reed","Fuel Systems","Manufacturer Certified",7
+"TECH_0122","Christopher Hernandez","Fuel Systems","ASE Master Technician",3
+"TECH_0123","Billy Powell","Transmission Specialist","ASE T-Series Certified",8
+"TECH_0124","Jose Evans","Fleet Maintenance","ASE L2 Electronic Systems",6
+"TECH_0125","Daniel Rodriguez","Emissions Systems","EPA Section 609 Certified",3
+"TECH_0126","Arthur Price","Fuel Systems","ASE L2 Electronic Systems",8
+"TECH_0127","Kevin Thomas","Engine Performance","ASE L1 Advanced",4
+"TECH_0128","Donald Thompson","General Maintenance","ASE Diesel Certified",4
+"TECH_0129","Noah Peterson","Diesel Emissions (DEF/DPF)","ASE Master Technician",7
+"TECH_0130","Marcus Butler","Hydraulic Systems","ASE T-Series Certified",12
+"TECH_0131","Daniel Rodriguez","Diesel Emissions (DEF/DPF)","EPA Section 609 Certified",3
+"TECH_0132","Bryan Ross","Electrical Systems","ASE Master Technician",8
+"TECH_0133","Bradley Washington","Emissions Systems","ASE Advanced Level",12
+"TECH_0134","Willie Diaz","Emissions Systems","ASE L2 Electronic Systems",8
+"TECH_0135","Bruce Russell","Electronics & Computer Systems","Manufacturer Certified",8
+"TECH_0136","Sean Kelly","Diesel Engine Diagnostics","Manufacturer Certified",7
+"TECH_0137","Benjamin Baker","Drivetrain Specialist","State Inspector Licensed",6
+"TECH_0138","Scott Lewis","Transmission Specialist","ASE L1 Advanced",5
+"TECH_0139","Nathan Webb","Diesel Engine Diagnostics","ASE L2 Electronic Systems",15
+"TECH_0140","Logan Butler","Electronics & Computer Systems","EPA Section 609 Certified",10
+"TECH_0141","Donald Thompson","Turbocharger Specialist","ASE Diesel Certified",4
+"TECH_0142","Thomas Miller","Electronics & Computer Systems","ASE L2 Electronic Systems",3
+"TECH_0143","Bobby Hughes","Fuel Systems","ASE Master Technician",12
+"TECH_0144","Todd Sanders","Fleet Maintenance","Manufacturer Certified",12
+"TECH_0145","Nicholas King","Engine Performance","ASE Diesel Certified",5
+"TECH_0146","Jordan Long","Diesel Engine Diagnostics","ASE Advanced Level",8
+"TECH_0147","Jack Campbell","Turbocharger Specialist","ASE Diesel Certified",6
+"TECH_0148","Joshua Gonzalez","Brake Systems Specialist","ASE Advanced Level",3
+"TECH_0149","Nathan Collins","Diesel Engine Diagnostics","EPA Section 609 Certified",6
+"TECH_0150","Brandon Wilson","Hydraulic Systems","ASE T-Series Certified",4
+"TECH_0151","Jacob Young","Fleet Maintenance","ASE Master Technician",5
+"TECH_0152","Nicholas King","Engine Performance","ASE Diesel Certified",5
+"TECH_0153","Nathan Collins","Brake Systems Specialist","EPA Section 609 Certified",6
+"TECH_0154","Derek Coleman","Preventive Maintenance","State Inspector Licensed",20
+"TECH_0155","Anthony Martin","Engine Performance","State Inspector Licensed",4
+"TECH_0156","Billy Powell","Turbocharger Specialist","ASE T-Series Certified",8
+"TECH_0157","Terry Wood","Engine Performance","ASE T-Series Certified",7
+"TECH_0158","Russell Powell","Preventive Maintenance","ASE L3 Brakes",12
+"TECH_0159","Terry Wood","Preventive Maintenance","ASE T-Series Certified",7
+"TECH_0160","Marcus Butler","Hydraulic Systems","ASE T-Series Certified",12
+"TECH_0161","Jacob Young","Electronics & Computer Systems","ASE Master Technician",5
+"TECH_0162","Frank Hill","Heavy-Duty Diagnostics","ASE L1 Advanced",6
+"TECH_0163","Walter Rogers","General Maintenance","ASE T-Series Certified",7
+"TECH_0164","Steven Moore","Hydraulic Systems","ASE L3 Brakes",4
+"TECH_0165","Timothy Jackson","Electrical Systems","EPA Section 609 Certified",4
+"TECH_0166","Willie Diaz","Brake Systems Specialist","ASE L2 Electronic Systems",8
+"TECH_0167","Craig Gibson","Engine Performance","ASE L1 Advanced",15
+"TECH_0168","Vincent Perry","Fleet Maintenance","ASE L2 Electronic Systems",10
+"TECH_0169","Bryan Ross","Electrical Systems","ASE Master Technician",8
+"TECH_0170","Lawrence Bennett","Heavy-Duty Diagnostics","ASE L3 Brakes",8
+"TECH_0171","Michael Johnson","General Maintenance","ASE Diesel Certified",2
+"TECH_0172","Johnny Flores","Engine Performance","ASE Diesel Certified",12
+"TECH_0173","Randy Coleman","Diesel Emissions (DEF/DPF)","Manufacturer Certified",10
+"TECH_0174","Daniel Rodriguez","Brake Systems Specialist","EPA Section 609 Certified",3
+"TECH_0175","Douglas Stewart","Turbocharger Specialist","State Inspector Licensed",6
+"TECH_0176","Larry Scott","General Maintenance","ASE T-Series Certified",5
+"TECH_0177","Thomas Miller","Fleet Maintenance","ASE L2 Electronic Systems",3
+"TECH_0178","David Brown","Preventive Maintenance","ASE T-Series Certified",2
+"TECH_0179","Alan Foster","Engine Performance","State Inspector Licensed",10
+"TECH_0180","Ralph Bryant","Drivetrain Specialist","ASE T-Series Certified",10
+"TECH_0181","Billy Powell","Turbocharger Specialist","ASE T-Series Certified",8
+"TECH_0182","Jeffrey Hall","Diesel Engine Diagnostics","EPA Section 609 Certified",5
+"TECH_0183","Noah Peterson","Emissions Systems","ASE Master Technician",7
+"TECH_0184","Gregory Adams","Hydraulic Systems","ASE L3 Brakes",6
+"TECH_0185","Louis Long","Diesel Engine Diagnostics","EPA Section 609 Certified",12
+"TECH_0186","Andrew Lopez","Preventive Maintenance","ASE Diesel Certified",3
+"TECH_0187","Alan Foster","Engine Performance","State Inspector Licensed",10
+"TECH_0188","Eric Robinson","Fuel Systems","ASE L2 Electronic Systems",5
+"TECH_0189","Thomas Miller","Electrical Systems","ASE L2 Electronic Systems",3
+"TECH_0190","Nicholas King","Preventive Maintenance","ASE Diesel Certified",5
+"TECH_0191","Donald Thompson","Turbocharger Specialist","ASE Diesel Certified",4
+"TECH_0192","Jeremy Bailey","Engine Performance","ASE L1 Advanced",7
+"TECH_0193","Alexander Roberts","Brake Systems Specialist","Manufacturer Certified",6
+"TECH_0194","Aaron Phillips","Turbocharger Specialist","ASE L1 Advanced",6
+"TECH_0195","Douglas Stewart","Transmission Specialist","State Inspector Licensed",6
+"TECH_0196","Roger Ward","Preventive Maintenance","State Inspector Licensed",7
+"TECH_0197","Kevin Thomas","Engine Performance","ASE L1 Advanced",4
+"TECH_0198","Charles Davis","Heavy-Duty Diagnostics","ASE L3 Brakes",3
+"TECH_0199","Eugene Jenkins","Turbocharger Specialist","ASE L1 Advanced",10
+"TECH_0200","Aaron Phillips","General Maintenance","ASE L1 Advanced",6
+"TECH_0201","Larry Scott","General Maintenance","ASE T-Series Certified",5
+"TECH_0202","Eric Robinson","Electrical Systems","ASE L2 Electronic Systems",5
+"TECH_0203","Dylan Hughes","Hydraulic Systems","State Inspector Licensed",8
+"TECH_0204","Christopher Hernandez","Electrical Systems","ASE Master Technician",3
+"TECH_0205","Matthew Martinez","Hydraulic Systems","State Inspector Licensed",3
+"TECH_0206","Bobby Hughes","Electronics & Computer Systems","ASE Master Technician",12
+"TECH_0207","Jesse Gray","Diesel Emissions (DEF/DPF)","EPA Section 609 Certified",8
+"TECH_0208","James Smith","Diesel Engine Diagnostics","ASE Master Technician",2
+"TECH_0209","Bradley Washington","Diesel Emissions (DEF/DPF)","ASE Advanced Level",12
+"TECH_0210","William Jones","Brake Systems Specialist","Manufacturer Certified",2
+"TECH_0211","Austin Sanders","Hydraulic Systems","ASE L1 Advanced",8
+"TECH_0212","Zachary Morris","Electronics & Computer Systems","ASE Master Technician",7
+"TECH_0213","Jonathan Wright","Brake Systems Specialist","ASE Advanced Level",5
+"TECH_0214","Peter Murphy","Engine Performance","ASE Diesel Certified",7
+"TECH_0215","Louis Long","Emissions Systems","EPA Section 609 Certified",12
+"TECH_0216","Arthur Price","Electronics & Computer Systems","ASE L2 Electronic Systems",8
+"TECH_0217","Paul White","Fuel Systems","ASE Advanced Level",4
+"TECH_0218","Russell Powell","Preventive Maintenance","ASE L3 Brakes",12
+"TECH_0219","Russell Powell","Engine Performance","ASE L3 Brakes",12
+"TECH_0220","Wayne Patterson","Hydraulic Systems","ASE Diesel Certified",10
+"TECH_0221","Jordan Long","Diesel Engine Diagnostics","ASE Advanced Level",8
+"TECH_0222","Austin Sanders","Turbocharger Specialist","ASE L1 Advanced",8
+"TECH_0223","Dylan Hughes","Transmission Specialist","State Inspector Licensed",8
+"TECH_0224","Victor Barnes","Turbocharger Specialist","ASE L3 Brakes",15
+"TECH_0225","Derek Coleman","Preventive Maintenance","State Inspector Licensed",20
+"TECH_0226","George Harris","Preventive Maintenance","ASE T-Series Certified",5
+"TECH_0227","Donald Thompson","Transmission Specialist","ASE Diesel Certified",4
+"TECH_0228","David Brown","Engine Performance","ASE T-Series Certified",2
+"TECH_0229","Michael Johnson","Transmission Specialist","ASE Diesel Certified",2
+"TECH_0230","Dennis Mitchell","Fuel Systems","ASE Advanced Level",6
+"TECH_0231","Logan Butler","Electrical Systems","EPA Section 609 Certified",10
+"TECH_0232","Jonathan Wright","Brake Systems Specialist","ASE Advanced Level",5
+"TECH_0233","Peter Murphy","Heavy-Duty Diagnostics","ASE Diesel Certified",7
+"TECH_0234","Dylan Hughes","Transmission Specialist","State Inspector Licensed",8
+"TECH_0235","Craig Gibson","Drivetrain Specialist","ASE L1 Advanced",15
+"TECH_0236","Jack Campbell","General Maintenance","ASE Diesel Certified",6
+"TECH_0237","Derek Coleman","Preventive Maintenance","State Inspector Licensed",20
+"TECH_0238","Philip Patterson","Transmission Specialist","State Inspector Licensed",12
+"TECH_0239","Keith Ross","Fleet Maintenance","EPA Section 609 Certified",20
+"TECH_0240","James Smith","Diesel Engine Diagnostics","ASE Master Technician",2
+"TECH_0241","George Harris","Engine Performance","ASE T-Series Certified",5
+"TECH_0242","Billy Powell","General Maintenance","ASE T-Series Certified",8
+"TECH_0243","Juan Simmons","Brake Systems Specialist","ASE Master Technician",10
+"TECH_0244","Richard Garcia","General Maintenance","ASE L1 Advanced",3
+"TECH_0245","Nicholas King","Drivetrain Specialist","ASE Diesel Certified",5
+"TECH_0246","Ryan Allen","Transmission Specialist","State Inspector Licensed",5
+"TECH_0247","Nathan Webb","Emissions Systems","ASE L2 Electronic Systems",15
+"TECH_0248","Kevin Thomas","Heavy-Duty Diagnostics","ASE L1 Advanced",4
+"TECH_0249","Harold Cooper","Brake Systems Specialist","ASE L2 Electronic Systems",7
+"TECH_0250","Adam Turner","Drivetrain Specialist","ASE L3 Brakes",6
+"TECH_0251","Walter Rogers","Turbocharger Specialist","ASE T-Series Certified",7
+"TECH_0252","Andrew Lopez","Preventive Maintenance","ASE Diesel Certified",3
+"TECH_0253","Timothy Jackson","Electrical Systems","EPA Section 609 Certified",4
+"TECH_0254","Albert Griffin","Engine Performance","ASE L1 Advanced",8
+"TECH_0255","Jerry Carter","Heavy-Duty Diagnostics","ASE T-Series Certified",6
+"TECH_0256","Benjamin Baker","Preventive Maintenance","State Inspector Licensed",6
+"TECH_0257","Victor Barnes","Transmission Specialist","ASE L3 Brakes",15
+"TECH_0258","Carl Brooks","Fuel Systems","ASE Advanced Level",7
+"TECH_0259","Jonathan Wright","Diesel Emissions (DEF/DPF)","ASE Advanced Level",5
+"TECH_0260","Jonathan Wright","Brake Systems Specialist","ASE Advanced Level",5
+"TECH_0261","Christian Cox","Fleet Maintenance","EPA Section 609 Certified",7
+"TECH_0262","Lawrence Bennett","Preventive Maintenance","ASE L3 Brakes",8
+"TECH_0263","Willie Diaz","Brake Systems Specialist","ASE L2 Electronic Systems",8
+"TECH_0264","Brandon Wilson","Transmission Specialist","ASE T-Series Certified",4
+"TECH_0265","Russell Powell","Heavy-Duty Diagnostics","ASE L3 Brakes",12
+"TECH_0266","David Brown","Drivetrain Specialist","ASE T-Series Certified",2
+"TECH_0267","Peter Murphy","Engine Performance","ASE Diesel Certified",7
+"TECH_0268","Austin Sanders","Transmission Specialist","ASE L1 Advanced",8
+"TECH_0269","George Harris","Heavy-Duty Diagnostics","ASE T-Series Certified",5
+"TECH_0270","Derek Coleman","Engine Performance","State Inspector Licensed",20
+"TECH_0271","Terry Wood","Preventive Maintenance","ASE T-Series Certified",7
+"TECH_0272","James Smith","Diesel Engine Diagnostics","ASE Master Technician",2
+"TECH_0273","Jack Campbell","Hydraulic Systems","ASE Diesel Certified",6
+"TECH_0274","Douglas Stewart","Transmission Specialist","State Inspector Licensed",6
+"TECH_0275","Randy Coleman","Brake Systems Specialist","Manufacturer Certified",10
+"TECH_0276","Ralph Bryant","Heavy-Duty Diagnostics","ASE T-Series Certified",10
+"TECH_0277","Bruce Russell","Fleet Maintenance","Manufacturer Certified",8
+"TECH_0278","Christopher Hernandez","Fuel Systems","ASE Master Technician",3
+"TECH_0279","Russell Powell","Heavy-Duty Diagnostics","ASE L3 Brakes",12
+"TECH_0280","Ryan Allen","Transmission Specialist","State Inspector Licensed",5
+"TECH_0281","Russell Powell","Drivetrain Specialist","ASE L3 Brakes",12
+"TECH_0282","Johnny Flores","Preventive Maintenance","ASE Diesel Certified",12
+"TECH_0283","Alan Foster","Drivetrain Specialist","State Inspector Licensed",10
+"TECH_0284","Todd Sanders","Electronics & Computer Systems","Manufacturer Certified",12
+"TECH_0285","Johnny Flores","Drivetrain Specialist","ASE Diesel Certified",12
+"TECH_0286","Russell Powell","Preventive Maintenance","ASE L3 Brakes",12
+"TECH_0287","Craig Gibson","Preventive Maintenance","ASE L1 Advanced",15
+"TECH_0288","Eugene Jenkins","Hydraulic Systems","ASE L1 Advanced",10
+"TECH_0289","Brandon Wilson","Transmission Specialist","ASE T-Series Certified",4
+"TECH_0290","Andrew Lopez","Engine Performance","ASE Diesel Certified",3
+"TECH_0291","Walter Rogers","Turbocharger Specialist","ASE T-Series Certified",7
+"TECH_0292","Donald Thompson","General Maintenance","ASE Diesel Certified",4
+"TECH_0293","Harold Cooper","Emissions Systems","ASE L2 Electronic Systems",7
+"TECH_0294","Christian Cox","Fleet Maintenance","EPA Section 609 Certified",7
+"TECH_0295","Roger Ward","Preventive Maintenance","State Inspector Licensed",7
+"TECH_0296","Philip Patterson","Transmission Specialist","State Inspector Licensed",12
+"TECH_0297","Frank Hill","Engine Performance","ASE L1 Advanced",6
+"TECH_0298","Arthur Price","Fuel Systems","ASE L2 Electronic Systems",8
+"TECH_0299","Keith Richardson","Turbocharger Specialist","ASE L3 Brakes",7
+"TECH_0300","Craig Gibson","Drivetrain Specialist","ASE L1 Advanced",15
+"TECH_0301","Justin Torres","Electronics & Computer Systems","Manufacturer Certified",5
+"TECH_0302","Scott Lewis","Hydraulic Systems","ASE L1 Advanced",5
+"TECH_0303","Joe Myers","Drivetrain Specialist","ASE Diesel Certified",8
+"TECH_0304","Joshua Gonzalez","Emissions Systems","ASE Advanced Level",3
+"TECH_0305","Tyler Anderson","Electronics & Computer Systems","Manufacturer Certified",4
+"TECH_0306","Justin Torres","Electrical Systems","Manufacturer Certified",5
+"TECH_0307","Christian Cox","Electronics & Computer Systems","EPA Section 609 Certified",7
+"TECH_0308","Douglas Stewart","General Maintenance","State Inspector Licensed",6
+"TECH_0309","Jack Campbell","Transmission Specialist","ASE Diesel Certified",6
+"TECH_0310","Daniel Rodriguez","Emissions Systems","EPA Section 609 Certified",3
+"TECH_0311","Jack Campbell","Hydraulic Systems","ASE Diesel Certified",6
+"TECH_0312","Raymond Green","Emissions Systems","ASE L2 Electronic Systems",6
+"TECH_0313","Bobby Hughes","Fuel Systems","ASE Master Technician",12
+"TECH_0314","Frank Hill","Heavy-Duty Diagnostics","ASE L1 Advanced",6
+"TECH_0315","Daniel Rodriguez","Diesel Engine Diagnostics","EPA Section 609 Certified",3
+"TECH_0316","Gerald Howard","Hydraulic Systems","ASE Diesel Certified",7
+"TECH_0317","Jerry Carter","Drivetrain Specialist","ASE T-Series Certified",6
+"TECH_0318","Vincent Perry","Fleet Maintenance","ASE L2 Electronic Systems",10
+"TECH_0319","Tyler Anderson","Fuel Systems","Manufacturer Certified",4
+"TECH_0320","Todd Sanders","Electrical Systems","Manufacturer Certified",12
+"TECH_0321","Tyler Anderson","Fleet Maintenance","Manufacturer Certified",4
+"TECH_0322","Eric Robinson","Fuel Systems","ASE L2 Electronic Systems",5
+"TECH_0323","Peter Murphy","Heavy-Duty Diagnostics","ASE Diesel Certified",7
+"TECH_0324","Gregory Adams","Turbocharger Specialist","ASE L3 Brakes",6
+"TECH_0325","Bradley Washington","Brake Systems Specialist","ASE Advanced Level",12
+"TECH_0326","Alexander Roberts","Diesel Engine Diagnostics","Manufacturer Certified",6
+"TECH_0327","Walter Rogers","Hydraulic Systems","ASE T-Series Certified",7
+"TECH_0328","Bradley Washington","Diesel Emissions (DEF/DPF)","ASE Advanced Level",12
+"TECH_0329","Richard Garcia","Turbocharger Specialist","ASE L1 Advanced",3
+"TECH_0330","Walter Rogers","General Maintenance","ASE T-Series Certified",7
+"TECH_0331","Bryan Ross","Fuel Systems","ASE Master Technician",8
+"TECH_0332","Samuel Nelson","Electronics & Computer Systems","EPA Section 609 Certified",6
+"TECH_0333","Jason Walker","Preventive Maintenance","ASE L3 Brakes",5
+"TECH_0334","William Jones","Emissions Systems","Manufacturer Certified",2
+"TECH_0335","Dylan Hughes","Turbocharger Specialist","State Inspector Licensed",8
+"TECH_0336","Walter Rogers","Hydraulic Systems","ASE T-Series Certified",7
+"TECH_0337","Wayne Patterson","Turbocharger Specialist","ASE Diesel Certified",10
+"TECH_0338","Roy Alexander","Electronics & Computer Systems","ASE Advanced Level",10
+"TECH_0339","Logan Butler","Electronics & Computer Systems","EPA Section 609 Certified",10
+"TECH_0340","Jesse Gray","Emissions Systems","EPA Section 609 Certified",8
+"TECH_0341","Dennis Mitchell","Electronics & Computer Systems","ASE Advanced Level",6
+"TECH_0342","Wayne Patterson","General Maintenance","ASE Diesel Certified",10
+"TECH_0343","Alan Foster","Preventive Maintenance","State Inspector Licensed",10
+"TECH_0344","Jeffrey Hall","Emissions Systems","EPA Section 609 Certified",5
+"TECH_0345","Bradley Washington","Emissions Systems","ASE Advanced Level",12
+"TECH_0346","Kyle Cook","Diesel Emissions (DEF/DPF)","ASE Advanced Level",7
+"TECH_0347","Mark Lee","Brake Systems Specialist","ASE Master Technician",4
+"TECH_0348","Adam Turner","Drivetrain Specialist","ASE L3 Brakes",6
+"TECH_0349","Paul White","Electrical Systems","ASE Advanced Level",4
+"TECH_0350","Vincent Perry","Electrical Systems","ASE L2 Electronic Systems",10
+"TECH_0351","Vincent Perry","Electronics & Computer Systems","ASE L2 Electronic Systems",10
+"TECH_0352","William Jones","Brake Systems Specialist","Manufacturer Certified",2
+"TECH_0353","Christopher Hernandez","Electrical Systems","ASE Master Technician",3
+"TECH_0354","Jack Campbell","General Maintenance","ASE Diesel Certified",6
+"TECH_0355","Timothy Jackson","Electronics & Computer Systems","EPA Section 609 Certified",4
+"TECH_0356","Christopher Hernandez","Fleet Maintenance","ASE Master Technician",3
+"TECH_0357","Gerald Howard","Transmission Specialist","ASE Diesel Certified",7
+"TECH_0358","Sean Kelly","Diesel Emissions (DEF/DPF)","Manufacturer Certified",7
+"TECH_0359","Gerald Howard","Turbocharger Specialist","ASE Diesel Certified",7
+"TECH_0360","Christian Cox","Electrical Systems","EPA Section 609 Certified",7
+"TECH_0361","Carl Brooks","Electronics & Computer Systems","ASE Advanced Level",7
+"TECH_0362","Keith Ross","Fleet Maintenance","EPA Section 609 Certified",20
+"TECH_0363","Victor Barnes","Transmission Specialist","ASE L3 Brakes",15
+"TECH_0364","Donald Thompson","Transmission Specialist","ASE Diesel Certified",4
+"TECH_0365","Arthur Price","Electrical Systems","ASE L2 Electronic Systems",8
+"TECH_0366","Wayne Patterson","Turbocharger Specialist","ASE Diesel Certified",10
+"TECH_0367","Alan Foster","Preventive Maintenance","State Inspector Licensed",10
+"TECH_0368","Michael Johnson","General Maintenance","ASE Diesel Certified",2
+"TECH_0369","Patrick Rivera","Emissions Systems","ASE Master Technician",6
+"TECH_0370","George Harris","Preventive Maintenance","ASE T-Series Certified",5
+"TECH_0371","Ryan Allen","Turbocharger Specialist","State Inspector Licensed",5
+"TECH_0372","Billy Powell","Transmission Specialist","ASE T-Series Certified",8
+"TECH_0373","Donald Thompson","Turbocharger Specialist","ASE Diesel Certified",4
+"TECH_0374","Ryan Allen","Hydraulic Systems","State Inspector Licensed",5
+"TECH_0375","Douglas Stewart","Turbocharger Specialist","State Inspector Licensed",6
+"TECH_0376","Wayne Patterson","General Maintenance","ASE Diesel Certified",10
+"TECH_0377","Douglas Stewart","Turbocharger Specialist","State Inspector Licensed",6
+"TECH_0378","Vincent Perry","Electrical Systems","ASE L2 Electronic Systems",10
+"TECH_0379","Terry Wood","Engine Performance","ASE T-Series Certified",7
+"TECH_0380","Patrick Rivera","Emissions Systems","ASE Master Technician",6
+"TECH_0381","Arthur Price","Fuel Systems","ASE L2 Electronic Systems",8
+"TECH_0382","Frank Hill","Heavy-Duty Diagnostics","ASE L1 Advanced",6
+"TECH_0383","Wayne Patterson","General Maintenance","ASE Diesel Certified",10
+"TECH_0384","Keith Richardson","Hydraulic Systems","ASE L3 Brakes",7
+"TECH_0385","Dylan Hughes","Turbocharger Specialist","State Inspector Licensed",8
+"TECH_0386","Tyler Anderson","Electronics & Computer Systems","Manufacturer Certified",4
+"TECH_0387","Alan Foster","Heavy-Duty Diagnostics","State Inspector Licensed",10
+"TECH_0388","Frank Hill","Heavy-Duty Diagnostics","ASE L1 Advanced",6
+"TECH_0389","Christopher Hernandez","Fuel Systems","ASE Master Technician",3
+"TECH_0390","George Harris","Drivetrain Specialist","ASE T-Series Certified",5
+"TECH_0391","Matthew Martinez","Hydraulic Systems","State Inspector Licensed",3
+"TECH_0392","Dylan Hughes","Transmission Specialist","State Inspector Licensed",8
+"TECH_0393","Roy Alexander","Fleet Maintenance","ASE Advanced Level",10
+"TECH_0394","Anthony Martin","Engine Performance","State Inspector Licensed",4
+"TECH_0395","Nathan Collins","Emissions Systems","EPA Section 609 Certified",6
+"TECH_0396","Arthur Price","Electrical Systems","ASE L2 Electronic Systems",8
+"TECH_0397","Donald Thompson","General Maintenance","ASE Diesel Certified",4
+"TECH_0398","Joe Myers","Heavy-Duty Diagnostics","ASE Diesel Certified",8
+"TECH_0399","George Harris","Heavy-Duty Diagnostics","ASE T-Series Certified",5
+"TECH_0400","Gregory Adams","General Maintenance","ASE L3 Brakes",6
+"TECH_0401","Walter Rogers","General Maintenance","ASE T-Series Certified",7
+"TECH_0402","Zachary Morris","Electrical Systems","ASE Master Technician",7
+"TECH_0403","Douglas Stewart","Hydraulic Systems","State Inspector Licensed",6
+"TECH_0404","Timothy Jackson","Fleet Maintenance","EPA Section 609 Certified",4
+"TECH_0405","Wayne Patterson","Transmission Specialist","ASE Diesel Certified",10
+"TECH_0406","Gregory Adams","Transmission Specialist","ASE L3 Brakes",6
+"TECH_0407","Jesse Gray","Brake Systems Specialist","EPA Section 609 Certified",8
+"TECH_0408","Douglas Stewart","Transmission Specialist","State Inspector Licensed",6
+"TECH_0409","Peter Murphy","Heavy-Duty Diagnostics","ASE Diesel Certified",7
+"TECH_0410","Alan Foster","Drivetrain Specialist","State Inspector Licensed",10
+"TECH_0411","Vincent Perry","Fuel Systems","ASE L2 Electronic Systems",10
+"TECH_0412","Dylan Hughes","General Maintenance","State Inspector Licensed",8
+"TECH_0413","Logan Butler","Fleet Maintenance","EPA Section 609 Certified",10
+"TECH_0414","Kevin Thomas","Drivetrain Specialist","ASE L1 Advanced",4
+"TECH_0415","Raymond Green","Diesel Emissions (DEF/DPF)","ASE L2 Electronic Systems",6
+"TECH_0416","Logan Butler","Fleet Maintenance","EPA Section 609 Certified",10
+"TECH_0417","Billy Powell","Hydraulic Systems","ASE T-Series Certified",8
+"TECH_0418","Arthur Price","Electronics & Computer Systems","ASE L2 Electronic Systems",8
+"TECH_0419","Jose Evans","Electronics & Computer Systems","ASE L2 Electronic Systems",6
+"TECH_0420","Robert Williams","Electrical Systems","ASE Advanced Level",2
+"TECH_0421","Roy Alexander","Electrical Systems","ASE Advanced Level",10
+"TECH_0422","Mark Lee","Diesel Emissions (DEF/DPF)","ASE Master Technician",4
+"TECH_0423","Alan Foster","Drivetrain Specialist","State Inspector Licensed",10
+"TECH_0424","Scott Lewis","Hydraulic Systems","ASE L1 Advanced",5
+"TECH_0425","David Brown","Drivetrain Specialist","ASE T-Series Certified",2
+"TECH_0426","Paul White","Fuel Systems","ASE Advanced Level",4
+"TECH_0427","Robert Williams","Electrical Systems","ASE Advanced Level",2
+"TECH_0428","Alexander Roberts","Diesel Emissions (DEF/DPF)","Manufacturer Certified",6
+"TECH_0429","Randy Coleman","Diesel Emissions (DEF/DPF)","Manufacturer Certified",10
+"TECH_0430","Tyler Anderson","Fuel Systems","Manufacturer Certified",4
+"TECH_0431","Christian Cox","Electronics & Computer Systems","EPA Section 609 Certified",7
+"TECH_0432","Jordan Long","Brake Systems Specialist","ASE Advanced Level",8
+"TECH_0433","Ralph Bryant","Preventive Maintenance","ASE T-Series Certified",10
+"TECH_0434","Peter Murphy","Engine Performance","ASE Diesel Certified",7
+"TECH_0435","Louis Long","Emissions Systems","EPA Section 609 Certified",12
+"TECH_0436","Eric Robinson","Electronics & Computer Systems","ASE L2 Electronic Systems",5
+"TECH_0437","Gabriel Hayes","Turbocharger Specialist","ASE L3 Brakes",10
+"TECH_0438","Victor Barnes","Turbocharger Specialist","ASE L3 Brakes",15
+"TECH_0439","Patrick Rivera","Diesel Emissions (DEF/DPF)","ASE Master Technician",6
+"TECH_0440","Andrew Lopez","Heavy-Duty Diagnostics","ASE Diesel Certified",3
+"TECH_0441","Nathan Webb","Brake Systems Specialist","ASE L2 Electronic Systems",15
+"TECH_0442","Frank Hill","Preventive Maintenance","ASE L1 Advanced",6
+"TECH_0443","Albert Griffin","Heavy-Duty Diagnostics","ASE L1 Advanced",8
+"TECH_0444","Jack Campbell","Hydraulic Systems","ASE Diesel Certified",6
+"TECH_0445","Nicholas King","Heavy-Duty Diagnostics","ASE Diesel Certified",5
+"TECH_0446","Gregory Adams","Transmission Specialist","ASE L3 Brakes",6
+"TECH_0447","Harold Cooper","Brake Systems Specialist","ASE L2 Electronic Systems",7
+"TECH_0448","Nicholas King","Drivetrain Specialist","ASE Diesel Certified",5
+"TECH_0449","Jacob Young","Fuel Systems","ASE Master Technician",5
+"TECH_0450","Russell Powell","Heavy-Duty Diagnostics","ASE L3 Brakes",12
+"TECH_0451","Richard Garcia","General Maintenance","ASE L1 Advanced",3
+"TECH_0452","Keith Richardson","General Maintenance","ASE L3 Brakes",7
+"TECH_0453","Randy Coleman","Diesel Emissions (DEF/DPF)","Manufacturer Certified",10
+"TECH_0454","Jack Campbell","Turbocharger Specialist","ASE Diesel Certified",6
+"TECH_0455","Wayne Patterson","Transmission Specialist","ASE Diesel Certified",10
+"TECH_0456","Aaron Phillips","Hydraulic Systems","ASE L1 Advanced",6
+"TECH_0457","Nathan Webb","Diesel Engine Diagnostics","ASE L2 Electronic Systems",15
+"TECH_0458","Aaron Phillips","General Maintenance","ASE L1 Advanced",6
+"TECH_0459","Louis Long","Emissions Systems","EPA Section 609 Certified",12
+"TECH_0460","Ryan Allen","General Maintenance","State Inspector Licensed",5
+"TECH_0461","Randy Coleman","Emissions Systems","Manufacturer Certified",10
+"TECH_0462","Jose Evans","Fleet Maintenance","ASE L2 Electronic Systems",6
+"TECH_0463","Johnny Flores","Preventive Maintenance","ASE Diesel Certified",12
+"TECH_0464","Peter Murphy","Drivetrain Specialist","ASE Diesel Certified",7
+"TECH_0465","Daniel Rodriguez","Emissions Systems","EPA Section 609 Certified",3
+"TECH_0466","Douglas Stewart","Turbocharger Specialist","State Inspector Licensed",6
+"TECH_0467","Randy Coleman","Diesel Emissions (DEF/DPF)","Manufacturer Certified",10
+"TECH_0468","Douglas Stewart","General Maintenance","State Inspector Licensed",6
+"TECH_0469","Bruce Russell","Electronics & Computer Systems","Manufacturer Certified",8
+"TECH_0470","Jeremy Bailey","Preventive Maintenance","ASE L1 Advanced",7
+"TECH_0471","Eugene Jenkins","General Maintenance","ASE L1 Advanced",10
+"TECH_0472","Sean Kelly","Emissions Systems","Manufacturer Certified",7
+"TECH_0473","Gabriel Hayes","General Maintenance","ASE L3 Brakes",10
+"TECH_0474","Benjamin Baker","Engine Performance","State Inspector Licensed",6
+"TECH_0475","Anthony Martin","Engine Performance","State Inspector Licensed",4
+"TECH_0476","Tyler Anderson","Electronics & Computer Systems","Manufacturer Certified",4
+"TECH_0477","Anthony Martin","Drivetrain Specialist","State Inspector Licensed",4
+"TECH_0478","Adam Turner","Drivetrain Specialist","ASE L3 Brakes",6
+"TECH_0479","Aaron Phillips","Turbocharger Specialist","ASE L1 Advanced",6
+"TECH_0480","Jerry Carter","Engine Performance","ASE T-Series Certified",6
+"TECH_0481","Joe Myers","Engine Performance","ASE Diesel Certified",8
+"TECH_0482","Steven Moore","Transmission Specialist","ASE L3 Brakes",4
+"TECH_0483","Gerald Howard","Hydraulic Systems","ASE Diesel Certified",7
+"TECH_0484","Derek Coleman","Engine Performance","State Inspector Licensed",20
+"TECH_0485","Carl Brooks","Electronics & Computer Systems","ASE Advanced Level",7
+"TECH_0486","David Brown","Heavy-Duty Diagnostics","ASE T-Series Certified",2
+"TECH_0487","Noah Peterson","Emissions Systems","ASE Master Technician",7
+"TECH_0488","Craig Gibson","Heavy-Duty Diagnostics","ASE L1 Advanced",15
+"TECH_0489","Jeremy Bailey","Preventive Maintenance","ASE L1 Advanced",7
+"TECH_0490","Jason Walker","Preventive Maintenance","ASE L3 Brakes",5
+"TECH_0491","Charles Davis","Engine Performance","ASE L3 Brakes",3
+"TECH_0492","Jason Walker","Engine Performance","ASE L3 Brakes",5
+"TECH_0493","Arthur Price","Electronics & Computer Systems","ASE L2 Electronic Systems",8
+"TECH_0494","Ryan Allen","General Maintenance","State Inspector Licensed",5
+"TECH_0495","Lawrence Bennett","Preventive Maintenance","ASE L3 Brakes",8
+"TECH_0496","Brian Taylor","Diesel Engine Diagnostics","ASE L2 Electronic Systems",4
+"TECH_0497","Steven Moore","Transmission Specialist","ASE L3 Brakes",4
+"TECH_0498","Matthew Martinez","Turbocharger Specialist","State Inspector Licensed",3
+"TECH_0499","Steven Moore","Transmission Specialist","ASE L3 Brakes",4
+"TECH_0500","Dylan Hughes","Turbocharger Specialist","State Inspector Licensed",8
+"TECH_0501","Scott Lewis","Hydraulic Systems","ASE L1 Advanced",5
+"TECH_0502","Matthew Martinez","Transmission Specialist","State Inspector Licensed",3
+"TECH_0503","Kyle Cook","Brake Systems Specialist","ASE Advanced Level",7
+"TECH_0504","Albert Griffin","Drivetrain Specialist","ASE L1 Advanced",8
+"TECH_0505","Johnny Flores","Preventive Maintenance","ASE Diesel Certified",12
+"TECH_0506","Timothy Jackson","Fuel Systems","EPA Section 609 Certified",4
+"TECH_0507","David Brown","Drivetrain Specialist","ASE T-Series Certified",2
+"TECH_0508","Keith Richardson","Turbocharger Specialist","ASE L3 Brakes",7
+"TECH_0509","Justin Torres","Fuel Systems","Manufacturer Certified",5
+"TECH_0510","William Jones","Brake Systems Specialist","Manufacturer Certified",2
+"TECH_0511","Dennis Mitchell","Electrical Systems","ASE Advanced Level",6
+"TECH_0512","Bradley Washington","Diesel Emissions (DEF/DPF)","ASE Advanced Level",12
+"TECH_0513","Roger Ward","Heavy-Duty Diagnostics","State Inspector Licensed",7
+"TECH_0514","Bryan Ross","Fuel Systems","ASE Master Technician",8
+"TECH_0515","Jordan Long","Emissions Systems","ASE Advanced Level",8
+"TECH_0516","Alexander Roberts","Diesel Engine Diagnostics","Manufacturer Certified",6
+"TECH_0517","David Brown","Drivetrain Specialist","ASE T-Series Certified",2
+"TECH_0518","Lawrence Bennett","Heavy-Duty Diagnostics","ASE L3 Brakes",8
+"TECH_0519","Ryan Allen","General Maintenance","State Inspector Licensed",5
+"TECH_0520","Dylan Hughes","Turbocharger Specialist","State Inspector Licensed",8
+"TECH_0521","Keith Richardson","General Maintenance","ASE L3 Brakes",7
+"TECH_0522","Benjamin Baker","Heavy-Duty Diagnostics","State Inspector Licensed",6
+"TECH_0523","Paul White","Electronics & Computer Systems","ASE Advanced Level",4
+"TECH_0524","Bradley Washington","Diesel Engine Diagnostics","ASE Advanced Level",12
+"TECH_0525","Gerald Howard","General Maintenance","ASE Diesel Certified",7
+"TECH_0526","Lawrence Bennett","Engine Performance","ASE L3 Brakes",8
+"TECH_0527","Andrew Lopez","Engine Performance","ASE Diesel Certified",3
+"TECH_0528","Roy Alexander","Electrical Systems","ASE Advanced Level",10
+"TECH_0529","Kenneth Clark","Diesel Engine Diagnostics","Manufacturer Certified",5
+"TECH_0530","Ethan Reed","Fleet Maintenance","Manufacturer Certified",7
+"TECH_0531","Frank Hill","Heavy-Duty Diagnostics","ASE L1 Advanced",6
+"TECH_0532","Brian Taylor","Emissions Systems","ASE L2 Electronic Systems",4
+"TECH_0533","Frank Hill","Heavy-Duty Diagnostics","ASE L1 Advanced",6
+"TECH_0534","Walter Rogers","Turbocharger Specialist","ASE T-Series Certified",7
+"TECH_0535","Jonathan Wright","Diesel Engine Diagnostics","ASE Advanced Level",5
+"TECH_0536","Ralph Bryant","Drivetrain Specialist","ASE T-Series Certified",10
+"TECH_0537","Craig Gibson","Preventive Maintenance","ASE L1 Advanced",15
+"TECH_0538","Jacob Young","Electronics & Computer Systems","ASE Master Technician",5
+"TECH_0539","Keith Ross","Fleet Maintenance","EPA Section 609 Certified",20
+"TECH_0540","Louis Long","Brake Systems Specialist","EPA Section 609 Certified",12
+"TECH_0541","Philip Patterson","Turbocharger Specialist","State Inspector Licensed",12
+"TECH_0542","Christian Cox","Electronics & Computer Systems","EPA Section 609 Certified",7
+"TECH_0543","Kenneth Clark","Diesel Emissions (DEF/DPF)","Manufacturer Certified",5
+"TECH_0544","Gerald Howard","Transmission Specialist","ASE Diesel Certified",7
+"TECH_0545","Nathan Webb","Diesel Engine Diagnostics","ASE L2 Electronic Systems",15
+"TECH_0546","George Harris","Drivetrain Specialist","ASE T-Series Certified",5
+"TECH_0547","Keith Richardson","General Maintenance","ASE L3 Brakes",7
+"TECH_0548","Jonathan Wright","Brake Systems Specialist","ASE Advanced Level",5
+"TECH_0549","Kevin Thomas","Preventive Maintenance","ASE L1 Advanced",4
+"TECH_0550","Derek Coleman","Engine Performance","State Inspector Licensed",20
+"TECH_0551","Paul White","Fuel Systems","ASE Advanced Level",4
+"TECH_0552","Peter Murphy","Drivetrain Specialist","ASE Diesel Certified",7
+"TECH_0553","Billy Powell","Turbocharger Specialist","ASE T-Series Certified",8
+"TECH_0554","Gerald Howard","Transmission Specialist","ASE Diesel Certified",7
+"TECH_0555","Joe Myers","Engine Performance","ASE Diesel Certified",8
+"TECH_0556","Jeffrey Hall","Diesel Emissions (DEF/DPF)","EPA Section 609 Certified",5
+"TECH_0557","Jose Evans","Electronics & Computer Systems","ASE L2 Electronic Systems",6
+"TECH_0558","Kenneth Clark","Diesel Emissions (DEF/DPF)","Manufacturer Certified",5
+"TECH_0559","Roger Ward","Preventive Maintenance","State Inspector Licensed",7
+"TECH_0560","Jonathan Wright","Brake Systems Specialist","ASE Advanced Level",5
