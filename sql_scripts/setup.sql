@@ -178,7 +178,7 @@ FILE_FORMAT = (
 )
 ON_ERROR = 'ABORT_STATEMENT';
 
-SELECT '✓ Loaded ' || COUNT(*) || ' vehicles (expected: ~32,500)' as STATUS FROM VEHICLES;
+SELECT '✓ Loaded ' || COUNT(*) || ' vehicles (expected: 29,968)' as STATUS FROM VEHICLES;
 
 -- Load TECHNICIANS
 COPY INTO TECHNICIANS
@@ -191,7 +191,7 @@ FILE_FORMAT = (
 )
 ON_ERROR = 'ABORT_STATEMENT';
 
-SELECT '✓ Loaded ' || COUNT(*) || ' technicians (expected: ~560)' as STATUS FROM TECHNICIANS;
+SELECT '✓ Loaded ' || COUNT(*) || ' technicians (expected: 560)' as STATUS FROM TECHNICIANS;
 
 -- Load SALES
 COPY INTO SALES
@@ -204,7 +204,7 @@ FILE_FORMAT = (
 )
 ON_ERROR = 'ABORT_STATEMENT';
 
-SELECT '✓ Loaded ' || COUNT(*) || ' sales (expected: ~32,500)' as STATUS FROM SALES;
+SELECT '✓ Loaded ' || COUNT(*) || ' sales (expected: 29,968)' as STATUS FROM SALES;
 
 -- Load SERVICE (handles multiple files if split)
 COPY INTO SERVICE
@@ -220,7 +220,7 @@ FILE_FORMAT = (
 )
 ON_ERROR = 'ABORT_STATEMENT';
 
-SELECT '✓ Loaded ' || COUNT(*) || ' service records (expected: ~182,000)' as STATUS FROM SERVICE;
+SELECT '✓ Loaded ' || COUNT(*) || ' service records (expected: 67,011)' as STATUS FROM SERVICE;
 
 -- Summary
 SELECT 
@@ -248,13 +248,13 @@ SELECT
     CASE WHEN COUNT(*) = 100 THEN '✓ Expected' ELSE '⚠ Check count' END as STATUS
 FROM DEALERS
 UNION ALL
-SELECT 'VEHICLES', COUNT(*), CASE WHEN COUNT(*) BETWEEN 30000 AND 35000 THEN '✓ Expected' ELSE '⚠ Check count' END FROM VEHICLES
+SELECT 'VEHICLES', COUNT(*), CASE WHEN COUNT(*) = 29968 THEN '✓ Expected' ELSE '⚠ Check count' END FROM VEHICLES
 UNION ALL
-SELECT 'TECHNICIANS', COUNT(*), CASE WHEN COUNT(*) BETWEEN 500 AND 600 THEN '✓ Expected' ELSE '⚠ Check count' END FROM TECHNICIANS
+SELECT 'TECHNICIANS', COUNT(*), CASE WHEN COUNT(*) = 560 THEN '✓ Expected' ELSE '⚠ Check count' END FROM TECHNICIANS
 UNION ALL
-SELECT 'SALES', COUNT(*), CASE WHEN COUNT(*) BETWEEN 30000 AND 35000 THEN '✓ Expected' ELSE '⚠ Check count' END FROM SALES
+SELECT 'SALES', COUNT(*), CASE WHEN COUNT(*) = 29968 THEN '✓ Expected' ELSE '⚠ Check count' END FROM SALES
 UNION ALL
-SELECT 'SERVICE', COUNT(*), CASE WHEN COUNT(*) > 180000 THEN '✓ Expected' ELSE '⚠ Check count' END FROM SERVICE;
+SELECT 'SERVICE', COUNT(*), CASE WHEN COUNT(*) = 67011 THEN '✓ Expected' ELSE '⚠ Check count' END FROM SERVICE;
 
 -- Check 2: Warranty Summary
 SELECT 
@@ -264,7 +264,7 @@ SELECT
 FROM SERVICE
 WHERE SERVICE_TYPE = 'WARRANTY';
 
--- Expected: ~33,778 claims, ~$113M total
+-- Expected: Check actual values from your data
 
 -- Check 3: Top Dealers (Should see outliers)
 WITH sales_by_dealer AS (
@@ -325,3 +325,4 @@ SELECT '════════════════════════
 -- ═══════════════════════════════════════════════════════════════════
 
 SELECT '🎉 Setup Complete! Ready for workshop!' as STATUS;
+
