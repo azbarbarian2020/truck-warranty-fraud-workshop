@@ -17,15 +17,16 @@
 -- │ CONFIGURATION - EDIT THESE VALUES                               │
 -- └─────────────────────────────────────────────────────────────────┘
 
-SET DATABASE_NAME = 'TRUCK_WARRANTY_WORKSHOP';  -- Change if needed
-SET SCHEMA_NAME = 'ANALYTICS';                   -- Change if needed
-SET WAREHOUSE_NAME = 'COMPUTE_WH';               -- Change if needed
+SET DATABASE_NAME = 'TRAINING_DB';  
+--SET SCHEMA_NAME = '<YOUR WiW>_2025_SF_LAB'; -- e.g. BEACHAC_2025_SF_LAB
+SET SCHEMA_NAME = 'BEACHAC_DD_2025_SF_LAB';  -- cb note: use a new schema as when I tried to resuse my old one I had a role / permissions clash               
+SET WAREHOUSE_NAME = 'SSZ_TRAINING_ADHOC_WH';               
 
 -- ═══════════════════════════════════════════════════════════════════
 -- STEP 1: CREATE DATABASE, SCHEMA, AND STAGES
 -- ═══════════════════════════════════════════════════════════════════
 
-CREATE DATABASE IF NOT EXISTS IDENTIFIER($DATABASE_NAME);
+-- CREATE DATABASE IF NOT EXISTS IDENTIFIER($DATABASE_NAME); --cb note: dtna users do not have permission
 USE DATABASE IDENTIFIER($DATABASE_NAME);
 
 CREATE SCHEMA IF NOT EXISTS IDENTIFIER($SCHEMA_NAME);
@@ -325,4 +326,3 @@ SELECT '════════════════════════
 -- ═══════════════════════════════════════════════════════════════════
 
 SELECT '🎉 Setup Complete! Ready for workshop!' as STATUS;
-
